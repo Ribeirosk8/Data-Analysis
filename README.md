@@ -14,17 +14,6 @@ Contains
 Bill dimensions
 The culmen is the upper ridge of a bird’s bill. In the simplified penguins data, culmen length and depth are renamed as variables bill_length_mm and bill_depth_mm to be more intuitive.
 
-For this penguin data, the culmen (bill) length and depth are measured as shown below :
-![culmen_depth](https://github.com/Ribeirosk8/Data-Analysis/blob/main/culmen_depth.png)
-
-
-
-penguins_bill_length.csv - Modified palmer penguins dataset
-
-Meet Penguin species: 
-Chinstrap | Gentoo | Adelie 
-![Penguin species](https://github.com/Ribeirosk8/Data-Analysis-with-R-Programming/blob/main/lter_penguins.png)
-
 bill_length_mm: Penguin bill length in millimeters
 bill_mass_mm: Penguin body mass in grams
 Log_bill_length: Log transformed bill_length_mm
