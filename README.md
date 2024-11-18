@@ -4,7 +4,6 @@ _Let's start by loading a dataset to work with. We can use the palmer penguins d
 
 ## 🐧Introduction to R script and example modified palmer penguins dataset
 
-### Relationship between bill length and depth:
 ---
 
 
